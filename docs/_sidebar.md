@@ -6,6 +6,8 @@
 -  [<span class='static'>TypeExtensions</span>](e2.0.0)
 -  [<span class='static'>ParameterExtensions</span>](e3.0.0)
 -  [<span class='static'>ExpressionExtensions</span>](e1.0.0)
+-  -
+-  [<span class='static'>SteamExtensions</span>](s1.0.0)
 -  
 -  <span style='color:Blue'><img src="wwwroot/images/MR.svg" alt="" style="margin-bottom:-4px" />&nbsp;附录</span>
 - 
