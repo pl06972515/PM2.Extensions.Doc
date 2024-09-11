@@ -4,6 +4,7 @@
 -  [<span class='static'>IDictionaryExtensions</span>](j1.0.0)
 -  -
 -  [<span class='static'>TypeExtensions</span>](e2.0.0)
+-  [<span class='static'>MethodBaseExtensions</span>](e6.0.0)
 -  [<span class='static'>ParameterExtensions</span>](e3.0.0)
 -  [<span class='static'>ExpressionExtensions</span>](e1.0.0)
 -  -
